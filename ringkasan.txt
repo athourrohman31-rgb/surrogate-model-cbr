@@ -1,0 +1,8 @@
+LINEAR SURROGATE MODEL
+=======================
+
+CBR = 17.766937 + (-1.679747)*Swelling
+
+R2   = 0.9261
+MAE  = 0.9947
+RMSE = 1.2238
